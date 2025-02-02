@@ -1,11 +1,9 @@
 # Text Summarization Models Evaluation-TOPSIS
 Comparative peformance evaluation of different pre-trained models using TOPSIS
 ## Models Evaluated:
-"M1": "facebook/bart-large-cnn"                                                                                                                                        
+"M1": "facebook/bart-large-cnn"                                                                                                                                       
 "M2":  "t5-small"
-
 "M3": "Falconsai/text_summarization"
-
 "M4": "sshleifer/distilbart-cnn-12-6"
 ## Metrics Used:
  ROUGE-1
